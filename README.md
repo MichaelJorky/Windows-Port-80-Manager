@@ -39,8 +39,10 @@ Aplikasi ini secara otomatis mengelola service berikut:
 ## 🖼️ Tampilan Aplikasi
 
 > Contoh tampilan Windows Port 80 Manager:
-
-![Windows Port 80 Manager Screenshot](assets/Windows Port 80 Manager.jpg)
+> 
+<div align="center">
+  <img src="./assets/Windows Port 80 Manager.jpg" alt="Windows Port 80 Manager" width="470" height="307">
+</div>
 
 ---
 
